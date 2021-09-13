@@ -1,0 +1,30 @@
+Gollum,-16
+Goldfinger,15
+Darth Vader,20
+Magneto,30
+Bane,40
+Batman,40
+Voldemort,50
+Thanos,80
+my_character_name,Tom
+my_character_attack,25
+my_character_hp,20
+my_character_speed,20
+my_character_money,45
+inventory_item,clothes
+my_character_badge_count,1
+weapon_item,gloves
+armour_item,Ring of Power
+Jungle,True
+Desert,False
+Swamp,False
+Abandoned City,False
+Lost Temple,False
+Bull Ring,False
+Great Plains,False
+Mountains,False
+Volcano,False
+undiscovered_locations,8
+foes_remaining,7
+wins,1
+losses,0
